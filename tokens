@@ -1,0 +1,29 @@
+{
+  "name": "ZUBU",
+  "symbol": "ZUBU",
+  "description": "ZUBU é uma memecoin criada para surfar na onda da diversão e da comunidade! Inspirada no espírito livre e no bom humor, o token ZUBU representa energia positiva e movimento no mundo cripto.",
+  "image": "https://raw.githubusercontent.com/isabelajulio21-jpg/ZUBU-Metadata/fbacbc29b294675d1c0d20e5a1d57c82af831c33/Design%20sem%20nome%20(1).png",
+  "external_url": "https://pump.fun/3hgFh1ctwf5v6MykksEQAheCcvwNjwd5iZhxxbEKpump",
+  "attributes": [
+    { "trait_type": "Categoria", "value": "Memecoin" },
+    { "trait_type": "Energia", "value": "Alta vibração" },
+    { "trait_type": "Estilo", "value": "Surfando na tendência" }
+  ],
+  "properties": {
+    "category": "token",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/isabelajulio21-jpg/ZUBU-Metadata/fbacbc29b294675d1c0d20e5a1d57c82af831c33/Design%20sem%20nome%20(1).png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "AmfpMsqFNzpc3X2MPX5tH9432Y6hUhTQDf2MGjDnrEYH",
+        "share": 100
+}
+ZUBU-Metadata/
+├─ assets/
+│  └─ Design sem nome (1).png
+└─ tokens/
+   └─ ZUBU.json
